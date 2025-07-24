@@ -1,0 +1,22 @@
+.header {
+  background-color: rgb(125, 74, 196);
+
+  height: 50px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-section {
+  width: 150px;
+}
+
+.middle-section {
+  max-width: 500px;
+}
+
+.right-section {
+  width: 200px;
+}

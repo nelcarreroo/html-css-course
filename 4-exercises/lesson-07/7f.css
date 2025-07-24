@@ -1,0 +1,38 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.email-text {
+  font-size: 12px;
+  color: rgb(116, 116, 116);
+  margin-bottom: 5px;
+}
+
+.search-bar {
+  margin-bottom: 15px;
+  border-width: 2px;
+  border-radius: 3px;
+  border-color: rgb(116, 116, 116);
+  border-style: solid;
+  width: 295px;
+  height: 20px;
+}
+
+.tip-text {
+  font-size: 12px;
+  color: rgb(116, 116, 116);
+  margin-bottom: 23px;
+}
+
+.submit {
+  background-color: rgb(0, 107, 194);
+  color: white;
+  font-size: 14px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 112px;
+  padding-right: 112px;
+  border-radius: 30px;
+  cursor: pointer;
+}
